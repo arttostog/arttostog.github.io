@@ -23,8 +23,8 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    width: 35%;
-    height: 65%;
+    width: 35vw;
+    height: 50vw;
 
     background-color: rgb(240,248,255, 0.7);
 
