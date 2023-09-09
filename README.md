@@ -1,6 +1,6 @@
 <div align="center">
 
-# My personaly website
+# My personal website
 
 ### About
 
