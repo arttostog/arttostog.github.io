@@ -6,4 +6,4 @@
 
 </div>
 
-This website created myself on html and css.
+This simple website was created by me on html, css and js. Thanks to GitHub for hosting it! 
