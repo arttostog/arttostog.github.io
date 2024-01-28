@@ -1,7 +1,7 @@
 var Titles = ["Arttostog's personal website", "Hi there 👋", "Today is wednesday?", "Honk!", "🐝", "☔", "F!", "Yea", "Ping!", "Pong!", "📢"];
 
-function RandomTitle() {
+function getRandomTitle() {
     return Titles[Math.floor(Math.random() * Titles.length)];
 }
 
-document.title = RandomTitle();
+document.title = getRandomTitle();
